@@ -1,1 +1,0 @@
-# No external dependencies — pure stdlib (http.server, json, hashlib, re).
